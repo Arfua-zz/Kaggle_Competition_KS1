@@ -1,4 +1,4 @@
-# Kaggle_Competition_Kyivstar
+# Kaggle_Competition_KS1
 
 Notebook includes data preparation techinques, and comparison of different classificators.
 
