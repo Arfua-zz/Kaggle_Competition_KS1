@@ -9,6 +9,6 @@ Concretely, it shows
 - how to choose the best subset of features for the prediction,
 - how PCA, K-means clustering, K-best techniques can be used to prepare data for modelling,
 - how to compare classifier's results in an efficient way, and define the best classificator for the dataset,
-- how to search between hyperparameters, and find the best set of values for a classifier,
+- how to search between hyperparameters, and find the best set of parameter values for a classifier,
 - how to use cross-validation to evaluate the model in the most accurate and realistic way,
-- how to visualize reults of the estimation.
+- how to visualize results of the estimation.
